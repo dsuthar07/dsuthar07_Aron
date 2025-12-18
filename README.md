@@ -8,7 +8,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/dsuthar07?style=flat&logo=github&label=Stars&color=fd7cff)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Linux+desktop+engineering;rootless+containers;Windows+Servers;Cloud+platforms+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Linux+System+Administrator;rootless+containers;Windows+Administrator;Cloud+platforms+%26+DevOps" alt="Typing SVG" />
 </p>
 
 ## 📬 About me -- Contact
