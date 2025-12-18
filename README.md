@@ -15,7 +15,7 @@
     <a href="https://github.com/dsuthar07"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20World!%20I'm%20Divyang&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Linux%20enthusiast%20•%20Windows%20enthusiast%20•%20Cloud%20and%20DevOps&descSize=20&descAlignY=55)](https://github.com/dsuthar07)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20!%20I'm%20Divyang&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Linux%20enthusiast%20•%20Windows%20enthusiast%20•%20Cloud%20and%20DevOps&descSize=20&descAlignY=55)](https://github.com/dsuthar07)
 
 # Divyang's github profile
 
