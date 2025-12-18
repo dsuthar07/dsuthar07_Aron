@@ -1,3 +1,20 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;drknzz&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=dsuthar07&color=grey">
+</p>
+<p align="center">
+    <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
+
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20World!%20I'm%20Divyang&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Linux%20enthusiast%20•%20Windows%20enthusiast%20•%20Cloud%20and%20DevOps&descSize=20&descAlignY=55)](https://github.com/dsuthar07)
 
 # aka divyang github profile
