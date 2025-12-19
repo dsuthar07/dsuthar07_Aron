@@ -10,45 +10,25 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=dsuthar07&color=grey">
 </p>
-<p align="center">
-    <a href="https://leetcode.com/dsuthar07/"><img width="48%" src="https://leetcode.card.workers.dev/dsuthar07?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/dsuthar07"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-</p>
+
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20!%20I'm%20Divyang&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Linux%20enthusiast%20•%20Windows%20enthusiast%20•%20Cloud%20and%20DevOps&descSize=20&descAlignY=55)](https://github.com/dsuthar07)
 
 # Divyang's github profile
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=dsuthar07&label=Profile%20views&color=7745bf&)
 ![GitHub followers](https://img.shields.io/github/followers/dsuthar07?style=flat&logo=github&label=Followers&color=7c60d1)
 ![GitHub stars](https://img.shields.io/github/stars/dsuthar07?style=flat&logo=github&label=Stars&color=fd7cff)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Linux+System+Administrator;rootless+containers;Windows+Administrator;Cloud+platforms+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Linux+System+Administrator;Windows+Administrator;Cloud+platforms+%26+DevOps" alt="Typing SVG" />
 </p>
 
 ## 📬 About me -- Contact
 
-<a href="https://wakatime.com/@018cc02c-e893-42e6-b1c7-48cb3ef3ccfe">
-  <img
-    src="https://wakatime.com/badge/user/018cc02c-e893-42e6-b1c7-48cb3ef3ccfe.svg?style=flat"
-    alt="Total time coded since Dec 31 2023"
-    style="filter: hue-rotate(90deg);" />
-</a>
-
-[![Waka Readme](https://github.com/dsuthar07/dsuthar07/actions/workflows/readme.yaml/badge.svg)](https://github.com/dsuthar07/dsuthar07/actions/workflows/readme.yaml)
-[![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=ffffff)](https://matrix.to/#/@dsuthar07:matrix.org)
-
-- Matrix: <a href="https://matrix.to/#/@dsuthar07:matrix.org" target="_blank">@dsuthar07:matrix.org</a>
-- Brieftaube: <a href="https://de.wikipedia.org/wiki/Brieftaube" target="_blank">Homing Pigeon</a> send it to cologne 50.951811223028265, 6.986298711065432
-
-> [!IMPORTANT]
-> Don't take urself too seriously, we're all pretty dumbs here.
 
 <div class="badges-githubstats">
   <img src="https://github-readme-stats.vercel.app/api?username=dsuthar07&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="dsuthar07's github statistics" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsuthar07&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="dsuthar07's github commit streak" height="140" />
 </div>
 
 ## 🔧 What I do now
@@ -295,3 +275,30 @@ Stylus                   3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 </details>
+
+
+<!--
+<a href="https://wakatime.com/@018cc02c-e893-42e6-b1c7-48cb3ef3ccfe">
+  <img
+    src="https://wakatime.com/badge/user/018cc02c-e893-42e6-b1c7-48cb3ef3ccfe.svg?style=flat"
+    alt="Total time coded since Dec 31 2023"
+    style="filter: hue-rotate(90deg);" />
+</a>
+
+[![Waka Readme](https://github.com/dsuthar07/dsuthar07/actions/workflows/readme.yaml/badge.svg)](https://github.com/dsuthar07/dsuthar07/actions/workflows/readme.yaml)
+[![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=ffffff)](https://matrix.to/#/@dsuthar07:matrix.org)
+
+- Matrix: <a href="https://matrix.to/#/@dsuthar07:matrix.org" target="_blank">@dsuthar07:matrix.org</a>
+- Brieftaube: <a href="https://de.wikipedia.org/wiki/Brieftaube" target="_blank">Homing Pigeon</a> send it to cologne 50.951811223028265, 6.986298711065432
+
+> [!IMPORTANT]
+> Don't take urself too seriously, we're all pretty dumbs here.
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsuthar07&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="dsuthar07's github commit streak" height="140" />
+ 
+
+<p align="center">
+    <a href="https://leetcode.com/dsuthar07/"><img width="48%" src="https://leetcode.card.workers.dev/dsuthar07?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/dsuthar07"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsuthar07&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
+-->
